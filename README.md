@@ -1,5 +1,4 @@
 # crosvm
-########
 
 ### Install Rust and Dependencies  
 

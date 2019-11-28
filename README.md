@@ -6,6 +6,6 @@ curl https://sh.rustup.rs -sSf | sh
 
 sudo apt-get install -y libcap-dev libfdt-dev
 
-### Build Crosvm
+### Build crosvm
 
 ./build.sh

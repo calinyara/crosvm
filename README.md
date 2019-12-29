@@ -1,11 +1,1 @@
-# crosvm
-
-### Install Rust and Dependencies  
-
-curl https://sh.rustup.rs -sSf | sh
-
-sudo apt-get install -y libcap-dev libfdt-dev
-
-### Build crosvm
-
-./build.sh
+# [Play with Crosvm](https://calinyara.github.io/technology/2019/12/12/Play-with-Crosvm.html)
